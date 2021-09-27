@@ -1,0 +1,203 @@
+@media only screen and (max-width:990px) {
+  #toparticle {
+    background-color: wheat;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px !important;
+    border-top-left-radius: 30px !important;
+  }
+}
+
+#toparticle {
+    background-color: wheat;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+}
+@media only screen and (max-width:990px){
+#menubox {
+  background-color: lightblue;
+ border-bottom-left-radius: 30px;
+ border-bottom-right-radius: 30px;
+ border-top-right-radius: 0px !important; 
+  border: black 2px solid;
+}}
+#menubox {
+  background-color: lightblue;
+ border-top-right-radius: 30px;
+ border-bottom-right-radius: 30px;
+  border: black 2px solid;
+}
+
+
+.backgrounddragon{
+    background-image: url(../img/dragonbackgroun.jpg);
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+}
+.backgroundspider{
+    background-image: url(../img/spiderbackground.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.backgrounddyr{
+    background-image: url(../img/monsterbackground.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.backgroundmonster{
+    background-image: url(../img/minutaor\ background.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+#backgroundindex {
+  background-image: url(../img/zoobackground1.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.backgroundgallery{
+    background-image: url(../img/peoplelooking.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: skyblue;
+}
+.backgroundwolf{
+    background-image: url(../img/werewolfbackground.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.gallerycolor{
+    background-color: wheat;
+}
+header {
+  height: 110px;
+  background-color: black;
+}
+h1 {
+  color: wheat;
+  padding-top: 40px;
+  font: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: darkred 2px 2px;
+}
+#Logo {
+  width: 40%;
+}
+nav {
+  height: 35px;
+  background-color: darkred;
+}
+ul {
+  text-align: center;
+  list-style: none;
+  padding-left: 0mm;
+}
+
+ul li {
+  display: inline;
+}
+
+ul li a {
+  color: black;
+  font-weight: 900;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+#footerbox_one {
+  background-color: darkred;
+  height: 35px;
+}
+#footerbox_two {
+  background-color: black;
+  min-height: 100px;
+  color: red;
+}
+
+.frontpageimg{
+    border-radius: 30px;
+    border: black 2px solid;
+}
+
+#textarticle {
+    background-color: black;
+    color: wheat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: black 1px 1px;
+
+}
+#spider {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  text-shadow: black 2px 2px;
+}
+#dragon {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  text-shadow: black 2px 2px;
+}
+#werewolf {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  text-shadow: black 2px 2px;
+}
+#monster {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  text-shadow: black 2px 2px;
+}
+footer{
+    color: wheat;
+    text-shadow: black 1px 1px;
+}
+#kontaktåbnings{
+    background-color: rgb(44, 44, 44);
+    color: wheat;
+    z-index: 2;
+}
+#vispåkort{
+    background-color: rgb(44, 44, 44);
+    color: wheat;
+    z-index: 2;
+}
+#KontaktInfo{
+    background-color: rgb(44, 44, 44);
+    color: wheat;
+    z-index: 2;
+    position: relative;
+}
+#baggrundkontakt{
+    background-color: black;
+    z-index: 1;
+    position: relative;
+}
+#contactbox{
+  height: 350px;
+}
+.hooverpic{
+  border: black solid 2px;
+  box-shadow: black 0 0 20px;
+}
+.hooverpic:hover{
+  box-shadow: white 0 0 2px;
+  border: white solid 2px;
+}
+.borderclass{
+  border: black 5px solid;
+}
+label{
+  color: wheat;
+}
